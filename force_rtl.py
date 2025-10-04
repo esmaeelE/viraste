@@ -3,7 +3,7 @@
 
 # read a file line by line add char
 
-
+# U+202E
 char_to_add = "‮"
 char_to_add.encode("utf8")
 
